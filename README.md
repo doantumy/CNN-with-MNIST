@@ -1,4 +1,5 @@
-# MNIST-with-CNN
+# Handwritten Digits Recognition
+
 ## Objective
 The main objective of this project is to build a CNN for MNIST dataset to predict handwritten digits.
 ![](./data/images/mnist.png)
