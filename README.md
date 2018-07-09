@@ -9,7 +9,7 @@ The expected outcome is the CNN model trained in TensorFlow with accuracy >= 99%
 ## Setup:
 Required data for running the model including:
 - Jupyter Notebook file
-- `Data` folder: TensorFlow model 20 & 24 and train + test data are upload in the zip folder under Google Drive.
+- `Data` folder: TensorFlow model 20 & 24 and train + test data are zipped and uploaded (`data_cnn_mnist.zip`) in Google Drive.
 
 Link: `https://drive.google.com/file/d/1Dpg0ZsPZhcQMV0qML_264yIh7VzewuiB/view?usp=sharing`
 
